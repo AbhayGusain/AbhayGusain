@@ -3,7 +3,7 @@
 A Passionate and driven student currently enrolled in a B.Tech program in Computer Science and Engineering. With a deep-rooted fascination for the world of technology and a strong desire to make a meaningful impact in the digital realm, I have embarked on this exciting journey to gain knowledge and expertise in the field of Computer Science and Engineering, especially in the realm of **web development**. Here's a bit more about me:
 
 - 🌱 I’m currently learning **C, C++, Java, Python, HTML, CSS, JavaScript**
-- 🔭 I’ve created projects like **Stock Price Prediction using Machine Learning**, **Canteen Management System**, and **House Price Prediction**
+- 🔭 I’ve created projects on **Machine Learning**, **Web Development**, and **Deep Learning**
 - 👯 I’m looking to collaborate on **web development projects**
 - 💬 Ask me about **web development**
 - 📫 How to reach me:
