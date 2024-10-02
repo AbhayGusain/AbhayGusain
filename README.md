@@ -9,7 +9,6 @@ A Passionate and driven student currently enrolled in a B.Tech program in Comput
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/abhay-gusain-546518222/)
   - [LeetCode](https://leetcode.com/u/abhaygusain567/)
-  - [GitHub](https://github.com/AbhayGusain)
 
 ## 🛠️ Technologies & Tools I Use:
 
