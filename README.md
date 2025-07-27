@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" style="margin-right: 5px;">
   <h1 align="center">Hi there, I'm Abhay Gusain!</h1>
-  <h3 align="center">A Passionate CSE Student & Aspiring Web Developer from India 🇮🇳</h3>
+  <h3 align="center">A Passionate CSE Student & Aspiring Web Developer</h3>
 </div>
 
 ---
